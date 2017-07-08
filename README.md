@@ -17,6 +17,7 @@ WebAssembly 周报内容由 WebAssembly 社区贡献者共同收集和整理，�
  ## 发布形式
  
  周报会在 [WIKI](https://github.com/WebAssembly-cn/weekly/wiki) 里连载的方式发布。
-  - 最新一期的周报会出现在最最上面。
-  - 同时关闭 “第 xx 期内容征集” 的 issue。
-  - 新开一个 “第 xx 期内容征集” 的 issue。
+ 
+ - 最新一期的周报会出现在最最上面。
+ - 同时关闭 “第 xx 期内容征集” 的 issue。
+ - 新开一个 “第 xx 期内容征集” 的 issue。
