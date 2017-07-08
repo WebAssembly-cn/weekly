@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/799578/27982542-5957bcba-63d6-11e7-93a6-2e71b30e87a5.png" width="320"/>
+<img src="https://user-images.githubusercontent.com/799578/27982542-5957bcba-63d6-11e7-93a6-2e71b30e87a5.png" width="256"/>
 
 # weekly
 WebAssembly 周报整理不容错过的资料，一周看这些就够了!
